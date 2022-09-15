@@ -1,0 +1,3 @@
+2022-08-25 23:24:45,632 INFO [agjs.TestLog4j] - Info message
+2022-08-25 23:24:45,633 WARN [agjs.TestLog4j] - Warn message
+2022-08-25 23:24:45,633 ERROR [agjs.TestLog4j] - Error message
